@@ -1,4 +1,4 @@
-package com.sayani.TestProj;
+package com.sayani.TestPro;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
